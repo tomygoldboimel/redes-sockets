@@ -10,6 +10,12 @@ Integrantes:
 - Python 3.x instalado
 - Nenhuma biblioteca externa necessária
 
+Para cada questão execute:
+```bash
+# Para a questão 1, por exemplo
+cd questao1
+```
+
 ### Questão 1 — Análise TCP e UDP
 Abra dois terminais e execute na seguinte ordem:
 
